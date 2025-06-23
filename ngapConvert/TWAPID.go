@@ -3,7 +3,7 @@ package ngapConvert
 import (
 	"encoding/binary"
 
-	"github.com/free5gc/ngap/ngapType"
+	"github.com/sadhasiva1984/ngap/ngapType"
 )
 
 func TWAPIDToInt(id ngapType.TWAPID) (idInt64 int64) {

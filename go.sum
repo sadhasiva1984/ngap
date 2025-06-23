@@ -3,8 +3,6 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/free5gc/aper v1.0.6-0.20250102035630-3ddc831eed6a h1:PRapMdjqo96T7y8PHShUlirRDI0EaJNVrmdfQaHxOKY=
 github.com/free5gc/aper v1.0.6-0.20250102035630-3ddc831eed6a/go.mod h1:L4d0BJpHVOgiOC49aCz44mF0Vja3l+bcVSAs7i3CZ8s=
-github.com/free5gc/openapi v1.1.0 h1:bOTp6vKC2MxupEXD76qeUL1MppV/SmXnka09JQJADZ0=
-github.com/free5gc/openapi v1.1.0/go.mod h1:Q2vSmc1xpSE9Dy8rbNSWQwv7cFLHbZvKhq528vj6Wbg=
 github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeDy8=
 github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
@@ -14,6 +12,8 @@ github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/sadhasiva1984/openapi v1.2.0 h1:ISYF/rkbdXqXMgTyTZoNRvSOHCL4ziZGx9cr/OZBWN0=
+github.com/sadhasiva1984/openapi v1.2.0/go.mod h1:Rfz9edPyAd+nKfs0RnPEnbRPjgeEHSV2S7wPNPLrlDM=
 github.com/sirupsen/logrus v1.9.3 h1:dueUQJ1C2q9oE3F7wvmSGAaVtTmUizReu6fjN8uqzbQ=
 github.com/sirupsen/logrus v1.9.3/go.mod h1:naHLuLoDiP4jHNo9R0sCBMtWGeIprob74mVsIT4qYEQ=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

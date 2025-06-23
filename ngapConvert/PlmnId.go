@@ -4,9 +4,9 @@ import (
 	"encoding/hex"
 	"strings"
 
-	"github.com/free5gc/ngap/logger"
-	"github.com/free5gc/ngap/ngapType"
-	"github.com/free5gc/openapi/models"
+	"github.com/sadhasiva1984/ngap/logger"
+	"github.com/sadhasiva1984/ngap/ngapType"
+	"github.com/sadhasiva1984/openapi/models"
 )
 
 func PlmnIdToModels(ngapPlmnId ngapType.PLMNIdentity) (modelsPlmnid models.PlmnId) {

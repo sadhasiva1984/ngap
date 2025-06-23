@@ -3,7 +3,7 @@ package ngapConvert
 import (
 	"encoding/binary"
 
-	"github.com/free5gc/ngap/ngapType"
+	"github.com/sadhasiva1984/ngap/ngapType"
 )
 
 func TNAPIDToInt(id ngapType.TNAPID) (idInt64 int64) {

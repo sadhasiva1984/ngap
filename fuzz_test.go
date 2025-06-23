@@ -6,7 +6,7 @@ package ngap_test
 import (
 	"testing"
 
-	"github.com/free5gc/ngap"
+	"github.com/sadhasiva1984/ngap"
 )
 
 func FuzzNGAP(f *testing.F) {
